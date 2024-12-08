@@ -6,13 +6,11 @@ This is a simple server script that disables the idle cam for all players.
 
 I do not offer support for this script. 
 
-This is a standalone script that works on esx and qbcore. I have not tested it on other scripts. 
-
-Please do not leak or reupload this script. 
-
-Copyright 2024 Meltedtacobeef
+This is a standalone script that works on esx and qbcore. I have not tested it on other servers. 
 
 
+
+Copyright 2024 
 
 
 
@@ -20,9 +18,10 @@ Copyright 2024 Meltedtacobeef
 
 
 
-#Instillation Instructions
 
-Download the script form your fivem keymaster.
+
+#Install Instructions
+
 
 Put inside your resources folder
 
